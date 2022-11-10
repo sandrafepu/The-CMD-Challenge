@@ -1,0 +1,48 @@
+1 - ls
+
+2 - pwd
+
+3 - ls-a
+
+4 - ls-r
+
+5 - clear
+
+6 - cd small-name/
+    cd bigger..
+    cd omg..
+    cd this is..
+    ls
+    trophy.txt
+
+7 - cd funcode/
+    ls -S
+
+8 - mkdir the-most-funny
+    ls
+    mkdir notandivertido
+
+9- cd thecmdchallenge/boringfolder/
+   cd event..
+   cd i can..
+   cd the..
+   cp the-mostboring-text lol.txt
+
+10 - cd funcode/
+     cd funcode/images
+     cd/images
+     cd/hello
+     cd ..
+     cd ..
+     mv kids.jpg /workspace/exercise-terminal-challenge-thecmdchallenge/funcode/images/hello
+
+11 - cd thecmdchallenge/small-name
+     rm
+
+12 - rm -rf boringfolder
+
+13 - open dragon-ball-jokes.md
+
+14 - borro del edito de texto y actualizo
+
+
